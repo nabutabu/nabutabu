@@ -74,7 +74,7 @@ Contributed to Kyverno, the Kubernetes-native policy engine for enforcing securi
 
 ## Tech
 
-**Languages:** Go · C# · TypeScript · SQL · React · Rust
+**Languages:** Go · C# · TypeScript · SQL · React · Rust \
 **Platform & Infra:** Kubernetes · Docker · AWS · Terraform · Kyverno · SPIRE  
 **Observability:** OpenTelemetry · Distributed Tracing  
 **Databases:** PostgreSQL  · MySQL
