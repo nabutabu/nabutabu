@@ -7,7 +7,7 @@ Building reliable systems at the intersection of platform engineering and distri
 
 ## About
 
-I'm a full stack engineer with a strong pull toward platform engineering, distributed systems, and the architectural decisions that make large-scale software actually work. I enjoy reading engineering blogs from companies like Uber, Doordash, and Google as much as I enjoy writing code — and I try to bring those ideas into my own projects.
+I'm a full stack engineer with a strong pull toward platform engineering, distributed systems, and the architectural decisions that make large-scale software actually work. I enjoy reading engineering blogs from companies like Uber, Doordash, and Google as much as I enjoy writing code and I try to bring those ideas into my own projects.
 
 When I'm not building at work, I'm contributing to open source tools in the cloud-native ecosystem and exploring systems concepts hands-on.
 
