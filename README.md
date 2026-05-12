@@ -61,14 +61,7 @@ A project exploring real-time audio streaming using the Spotify API.
 ### [opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) — OpenTelemetry
 Contributed multiple improvements to the OpenTelemetry .NET SDK, part of the CNCF ecosystem for distributed tracing and observability.
 
-- [PR #7033](https://github.com/open-telemetry/opentelemetry-dotnet/pull/7033)
-- [PR #7009](https://github.com/open-telemetry/opentelemetry-dotnet/pull/7009)
-- [PR #7004](https://github.com/open-telemetry/opentelemetry-dotnet/pull/7004)
-
-### [Kyverno](https://github.com/kyverno/kyverno) — CNCF Policy Engine
-Contributed to Kyverno, the Kubernetes-native policy engine for enforcing security and compliance rules across clusters.
-
-- [PR #15791](https://github.com/kyverno/kyverno/pull/15791)
+[Meaningful Contributions](https://github.com/open-telemetry/opentelemetry-dotnet/pulls?q=is%3Apr+author%3Anabutabu+)
 
 ---
 
