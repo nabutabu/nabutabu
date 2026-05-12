@@ -68,9 +68,9 @@ Contributed multiple improvements to the OpenTelemetry .NET SDK, part of the CNC
 ## Tech
 
 **Languages:** Go · C# · TypeScript · SQL · React · Rust \
-**Platform & Infra:** Kubernetes · Docker · AWS · Terraform · Kyverno · SPIRE  
+**Platform & Infra:** Kubernetes · Docker · AWS · Terraform · SPIRE  
 **Observability:** OpenTelemetry · Distributed Tracing  
-**Databases:** PostgreSQL  · MySQL
+**Databases:** PostgreSQL  · MySQL  \
 **Interests:** Platform Engineering · Distributed Systems · Service Mesh · CNCF
 
 ---
